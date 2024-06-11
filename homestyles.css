@@ -1,0 +1,58 @@
+h2{background-color:aqua;
+    font-weight: bold;
+    padding-top: 4px;
+padding-bottom: 4px;
+padding-right: 200px;
+padding: 10px;}
+
+h1{
+    text-align:center;
+    color:white;
+    font-style: oblique;
+    background-color: red;
+    font-weight: bolder;
+    padding-top: 20px;
+    padding-bottom:20px;
+}
+body{
+    text-align:center;
+}
+main{
+    text-align: left;
+    background-color:red ;
+    background-image: url("");
+    height: 400px;
+    width: 1000px;
+    color: white;
+    font-size: large;
+    font-weight:bold;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    padding-top:250px;
+    padding-right:0px;
+}
+    nav {
+        background-color:aqua;
+
+    margin:0px;
+}
+.navbar ul{
+    list-style-type: none;
+    background-color:rgb(52, 146, 146);
+    padding: 0px;
+    margin:0px;
+    overflow:hidden;
+}
+.navbar a{
+    color:white;
+    text-decoration: none;
+    padding:50px;
+    display:block;
+    text-align:center
+}
+.navbar a:hover{
+    background-color: blue;
+}
+.navbar li{
+    float:left;
+}
